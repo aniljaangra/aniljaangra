@@ -1,4 +1,10 @@
-### Hi there 👋
+ <h2 align="center">Hi there 👋, I'm Anil Jangra!</h2>
+
+
+🚀 Experienced Front-End Developer 🖥️💻
+
+I am a Seasoned Lead Frontend Developer driven by a passion for crafting user-friendly interfaces. With a solid 10-year background in JavaScript,** React, Next.js, TypeScript** , Web Performance Optimization and Node.js. I excel at creating clean, efficient, accessible digital experiences and holds Strong Team Mentoring Experience. I bring a wealth of experience and expertise in building professional websites and front-end applications. With a strong background in the information technology and services industries, I've honed my skills in a variety of front-end technologies .
+In addition to my professional journey, I have a voracious appetite for learning new technologies. I've successfully completed and deployed mini and major projects using React.js and other cutting-edge tools. 
 
 As a seasoned software architect and technical leader, I excel in architecting robust solutions, optimizing performance, and driving innovation in a global context. My career highlights include:
 
