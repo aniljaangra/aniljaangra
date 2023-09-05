@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aniljaangra/aniljaangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 As a seasoned software architect and technical leader, I excel in architecting robust solutions, optimizing performance, and driving innovation in a global context. My career highlights include:
 
 🏗️ Architectural Visionary: I'm dedicated to shaping the architectural landscape of software systems, crafting scalable, resilient solutions with a worldwide perspective.
@@ -21,6 +18,8 @@ As a seasoned software architect and technical leader, I excel in architecting r
 
 🆘 Point-of-Escalation: I'm the go-to resource for immediate attention to critical issues, ensuring successful deployment.
 
+<!--
+**aniljaangra/aniljaangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 If you're seeking an experienced leader who can drive architectural excellence, optimize performance, and turn business ideas into reality, let's connect and explore opportunities together.
 
 - 🔭 I’m currently working on ...
